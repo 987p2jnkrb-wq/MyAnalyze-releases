@@ -6,6 +6,8 @@ Personal finance for Windows. Track accounts and transactions, plan expenses, ma
 
 [Documentation · Polish & English (ZIP)](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/MyAnalyze-documentation-1.9.0.zip) · [Release notes](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v1.9.0) · [All releases](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases)
 
+[**How MyAnalyze evolved**](HISTORY.md) · [Previous releases and their notes](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases)
+
 ![MyAnalyze dashboard with financial indicators and pay-period forecast](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/screenshots.release.3.png)
 
 ## Your finances in one place
@@ -18,6 +20,10 @@ Personal finance for Windows. Track accounts and transactions, plan expenses, ma
 - Polish and English interface, with adjustable layouts and compact mobile views.
 
 MyAnalyze stores your data locally. Imported statements add completed transactions to history without automatically changing account balances. The documentation explains these rules and the difference between plans, completed transactions and account balances.
+
+## The story so far
+
+MyAnalyze grew from a local transaction manager into a personal finance workspace without losing its original focus: a clear separation between what was planned, what actually happened and what the account balance says. The [release history](HISTORY.md) shows that path from the 1.4 foundation through analysis, dashboards, KPIs, documents and backup/restore.
 
 ## A closer look
 
