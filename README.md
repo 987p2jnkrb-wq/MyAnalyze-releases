@@ -71,8 +71,6 @@ Before upgrading, create a full backup in the application. Keep backup files in 
 
 ## Documentation
 
-The latest public documentation archive currently available in Releases is the **1.9.0 Polish & English documentation package**:
+[Download MyAnalyze documentation 2.0.0 (English and Polish)](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/MyAnalyze-documentation-2.0.0.zip)
 
-[Download MyAnalyze documentation 1.9.0](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/MyAnalyze-documentation-1.9.0.zip)
-
-Because the application is now at 2.0.0, treat the 1.9.0 archive as background documentation where the 2.0.0 release notes describe newer behavior.
+The package retains the established financial rules and includes an updated guide to Earnings, Costs, Result, KPI, planning and GPT analysis in 2.0.0.
