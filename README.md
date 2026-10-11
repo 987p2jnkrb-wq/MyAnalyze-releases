@@ -1,62 +1,78 @@
 # MyAnalyze
 
-Personal finance for Windows. Track accounts and transactions, plan expenses, manage loans and liabilities, and see how your finances change over time.
+Personal finance for Windows. Track accounts and transactions, plan expenses, manage loans and liabilities, and analyze how your finances change over time.
 
-**[Download MyAnalyze 1.9.0 · Windows x64](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/MyAnalyze-Setup-1.9.0.exe)**
+**[Download MyAnalyze 2.0.0 · Windows x64](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/MyAnalyze-Setup-2.0.0.exe)**
 
-[Documentation · Polish & English (ZIP)](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/MyAnalyze-documentation-1.9.0.zip) · [Release notes](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v1.9.0) · [All releases](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases)
+[Release notes · 2.0.0](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v2.0.0) · [All releases](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases) · [How MyAnalyze evolved](HISTORY.md)
 
-[**How MyAnalyze evolved**](HISTORY.md) · [Previous releases and their notes](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases)
+> Application source code is maintained in a private repository. This public repository hosts releases, screenshots and product documentation.
 
-![MyAnalyze dashboard with financial indicators and pay-period forecast](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/screenshots.release.3.png)
+![MyAnalyze dashboard](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/screenshots.release.png)
 
 ## Your finances in one place
 
 - Accounts, income, expenses, loans, liabilities and savings goals.
-- CSV/PDF statement import, with manual CSV column mapping and a live preview.
-- Monthly results, forecasts, custom KPIs, spending radar and category budgets.
-- Product documents and personal folders, with file preview and download.
-- Full backup and restore of financial data, settings, KPIs and documents.
-- Polish and English interface, with adjustable layouts and compact mobile views.
+- CSV/PDF statement import, including configurable mapping and import review.
+- Monthly results, forecasts, custom KPIs, trends and financial analysis.
+- Configurable Income, Costs and Month Result rules used consistently across key views.
+- Parent-child labels for clearer transaction classification and analysis.
+- Product documents and personal folders.
+- Full backup and restore of financial data and application settings.
+- Polish and English interface.
 
-MyAnalyze stores your data locally. Imported statements add completed transactions to history without automatically changing account balances. The documentation explains these rules and the difference between plans, completed transactions and account balances.
+MyAnalyze stores application data locally. The product keeps a clear distinction between plans, completed transactions and account balances so analysis does not silently rewrite the underlying financial history.
 
-## The story so far
+## MyAnalyze 2.0.0
 
-MyAnalyze grew from a local transaction manager into a personal finance workspace without losing its original focus: a clear separation between what was planned, what actually happened and what the account balance says. The [release history](HISTORY.md) shows that path from the 1.4 foundation through analysis, dashboards, KPIs, documents and backup/restore.
+Version 2.0.0 focuses on consistent financial logic and clearer analysis.
+
+- Improved KPI configuration, presentation and period comparison.
+- New Income and Month Result Creator for defining which labels and direct costs build the monthly result.
+- More consistent Income, Costs and Month Result rules across Month, KPI, trends and scenario analysis.
+- Improved structured financial analyses prepared for use with GPT.
+- Parent-child labels for more organized classification.
+- Recurring income and expenses can be marked inactive without deleting their setup.
+- Improved bank CSV mapping, import review and English translations.
 
 ## A closer look
 
-### Financial history
+### Dashboard
 
-Review monthly results and show financing or cash flows alongside the ordinary income and expense result.
+A high-level view of the current financial picture and the areas that need attention.
 
-![Financial history with a monthly result chart and detailed table](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/screenshots.release.png)
+![MyAnalyze dashboard](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/screenshots.release.png)
 
-### Documents
+### Finance Manager
 
-Keep statements and agreements alongside the products they belong to, or store personal files in folders.
+Manage products, balances, recurring items and the structures used by the rest of the application.
 
-![Product documents with linked accounts and document actions](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/screenshots.release2.png)
+![Finance Manager](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/screenshots.release2.png)
 
-### Savings goals
+### Financial analysis
 
-Follow progress towards your goals, review your financial buffer and estimate how much you can set aside.
+Review results, trends and structured financial analysis using consistent calculation rules.
 
-![Savings goals with available funds, recommendations and goal progress](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/screenshots.release.4.png)
+![Financial analysis](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/screenshots.release.3.png)
+
+### Application overview
+
+A broader view of the product and its current interface.
+
+![Application overview](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v2.0.0/screenshots.release.4.png)
 
 ## Getting started
 
-1. Download and run **MyAnalyze-Setup-1.9.0.exe**.
+1. Download and run **MyAnalyze-Setup-2.0.0.exe**.
 2. Add your accounts and choose the app currency in Settings.
-3. Import a statement or add transactions, then review your plans and forecasts.
+3. Import a statement or add transactions, then configure the views and analysis that fit your workflow.
 
-Before upgrading, create a full backup in the application. Keep backup files in a private location: they contain financial data and documents and are not encrypted.
+Before upgrading, create a full backup in the application. Keep backup files in a private location because they can contain personal financial data and documents.
 
 ## Documentation
 
-**[Download the documentation ZIP](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/MyAnalyze-documentation-1.9.0.zip)** and open `documentation/pl/README.md` or `documentation/en/README.md`.
+The latest public documentation archive currently available in Releases is the **1.9.0 Polish & English documentation package**:
 
-The archive covers statement imports and CSV mapping, transaction flows, credit and repayment rules, analytics and KPIs, settings, documents, and backup/restore. It also includes technical reference material.
+[Download MyAnalyze documentation 1.9.0](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/download/v1.9.0/MyAnalyze-documentation-1.9.0.zip)
 
-This repository hosts downloads, screenshots and documentation. Application source code is maintained in a private repository.
+Because the application is now at 2.0.0, treat the 1.9.0 archive as background documentation where the 2.0.0 release notes describe newer behavior.
