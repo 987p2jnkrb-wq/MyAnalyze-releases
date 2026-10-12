@@ -9,6 +9,6 @@ This release makes MyAnalyze easier to start using and more consistent day to da
 - Financial integrity checks help flag items that need review without changing data automatically.
 - Polish and English documentation is bundled with the installer and opens from the app.
 
-**Download:** `MyAnalyze Setup 3.0.exe` (Windows x64). The accompanying `.sha256` file contains its SHA-256 checksum.
+**Download:** `MyAnalyze-Setup-3.0.exe` (Windows x64). The accompanying `.sha256` file contains its SHA-256 checksum.
 
 Before upgrading, make a full backup from the application and keep it private. Version [2.0.0](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v2.0.0) remains available.
