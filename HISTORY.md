@@ -46,8 +46,20 @@ Version 1.8 introduced custom KPIs, the spending radar, product documents, full 
 
 [View the 1.8 release](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v1.8.0)
 
-## 1.9 · The current release
+## 1.9 · Bringing the pieces together
 
 The current release brings the pieces together: shared credit and liability lifecycle rules, better month navigation and charts, multi-file product documents, configurable KPIs and radar, complete backup and restore, and improved mobile layouts.
 
 [Download 1.9.0](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v1.9.0)
+
+## 2.0 · Consistent calculations and clearer KPIs
+
+Version 2.0 made Income, Costs and Month Result rules more consistent across analysis, trends and KPIs. It also improved labels, statement review and the English interface.
+
+[View the 2.0.0 release](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v2.0.0)
+
+## 3.0 · A calmer daily workflow
+
+Version 3.0 adds a guided first run, clearer transaction review and history, a more coherent interface, and documentation inside the Windows installer. It also strengthens checks around financial data and transaction editing.
+
+[View the 3.0 release](https://github.com/987p2jnkrb-wq/MyAnalyze-releases/releases/tag/v3.0)
