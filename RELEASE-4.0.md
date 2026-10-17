@@ -13,7 +13,7 @@ Wersja 4.0 wprowadza mobilny interfejs MyAnalyze oraz kompaktowy przegląd trans
 
 Widok mobilny działa w przeglądarce przy skonfigurowanym prywatnym dostępie do własnej instancji aplikacji. Import wyciągu nadal nie zmienia automatycznie salda konta.
 
-**Pobieranie:** `MyAnalyze Setup 4.0.0.exe` - Windows x64. Plik `SHA256SUMS.txt` zawiera sumy kontrolne. Instalator nie ma podpisu cyfrowego.
+**Pobieranie:** `MyAnalyze.Setup.4.0.0.exe` - Windows x64. Plik `SHA256SUMS.txt` zawiera sumy kontrolne. Instalator nie ma podpisu cyfrowego.
 
 ## English
 
@@ -28,7 +28,7 @@ Version 4.0 introduces the MyAnalyze mobile interface and a compact transaction 
 
 Mobile views run in a browser through privately configured access to your own app instance. Statement imports still do not change account balances automatically.
 
-**Download:** `MyAnalyze Setup 4.0.0.exe` - Windows x64. Checksums are provided in `SHA256SUMS.txt`. The installer is unsigned.
+**Download:** `MyAnalyze.Setup.4.0.0.exe` - Windows x64. Checksums are provided in `SHA256SUMS.txt`. The installer is unsigned.
 
 ## Screenshots
 
