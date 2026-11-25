@@ -2,17 +2,13 @@
 
 # IleZostaje 1.0
 
-*Formerly MyAnalyze · Independent product for Windows*
-
-### See what’s left. Not just what you spend.
-
 IleZostaje is a personal finance application I built to make everyday finances easier to understand and plan. Import CSV and PDF statements, review transactions before saving, and plan the months ahead. Accounts, goals, spending and forecasts together — without connecting your bank. Your financial data stays on your computer.
 
 **MyAnalyze has evolved into IleZostaje and is now officially published under its new brand on Microsoft Store.**
 
 **[Get IleZostaje on Microsoft Store](https://apps.microsoft.com/detail/9N1M8RZBRRCC)** · [Visit MD Quality](https://mdquality.pl/)
 
-Local financial data · CSV / PDF import · Plan versus actual
+Local financial data · CSV / PDF import · Plan versus actual · Soon Available on macOS too
 
 ## Inside the app
 
