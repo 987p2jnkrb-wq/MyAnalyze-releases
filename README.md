@@ -27,6 +27,32 @@ Local financial data · CSV / PDF import · Plan versus actual · Soon Available
 - Track investments and retirement savings, including IKE, IKZE and PPK.
 - Attach documents, create backups and use the app in Polish or English.
 
+### Accounts, transactions and daily planning
+
+<p>
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.2.0/mobile-dashboard.png" width="220" alt="Dashboard with available funds, indicators and financial overview" />
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/mobile-transactions-4.0.jpg" width="220" alt="Transaction history" />
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/mobile-calendar.png" width="220" alt="Calendar and upcoming payments" />
+</p>
+
+### Savings goals and investments
+
+<p>
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/desktop-goals.png" width="650" alt="Desktop savings goals and allocation" />
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/mobile-goals.jpg" width="220" alt="Savings goals in the responsive interface" />
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/mobile-investments.png" width="220" alt="Investment overview in the responsive interface" />
+</p>
+
+### Financial analysis and indicators
+
+![Desktop summary and forecast](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/desktop-summary.png)
+
+![Configurable financial KPIs](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/kpi.png)
+
+*These real interface previews come from the public MD Quality portfolio, including earlier MyAnalyze development versions.*
+
 ## Desktop workspace
 
 The dashboard brings together available funds, selected KPIs, the current pay period and goals.
@@ -37,7 +63,6 @@ Month comparisons and configurable indicators make it easier to understand chang
 
 ![Trends and alerts preview](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/trends.png)
 
-*Interface previews include screenshots from the earlier MyAnalyze development versions.*
 
 ## Availability
 
