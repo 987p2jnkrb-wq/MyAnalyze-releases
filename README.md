@@ -12,9 +12,9 @@ Local financial data · CSV / PDF import · Plan versus actual · Soon Available
 
 ## Inside the app
 
-<p>
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.2.0/mobile-summary.png" width="240" alt="Summary and forecast in the responsive interface" />
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.2.0/mobile-trends.png" width="240" alt="Trends and indicators in the responsive interface" />
+<p align="center">
+  <a href="dashboard.png"><img src="dashboard.png" width="45%" alt="IleZostaje Windows dashboard with income, expenses and available funds" /></a>
+  <a href="dashboard2.png"><img src="dashboard2.png" width="50%" alt="IleZostaje financial forecast and safe daily budget" /></a>
 </p>
 
 ## What you can do
@@ -27,42 +27,14 @@ Local financial data · CSV / PDF import · Plan versus actual · Soon Available
 - Track investments and retirement savings, including IKE, IKZE and PPK.
 - Attach documents, create backups and use the app in Polish or English.
 
-### Accounts, transactions and daily planning
+### Responsive mobile interface (dark mode)
 
-<p>
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.2.0/mobile-dashboard.png" width="220" alt="Dashboard with available funds, indicators and financial overview" />
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/mobile-transactions-4.0.jpg" width="220" alt="Transaction history" />
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/mobile-calendar.png" width="220" alt="Calendar and upcoming payments" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.2.0/mobile-summary.png" width="220" alt="Summary and forecast in the responsive interface" />
+  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.2.0/mobile-trends.png" width="220" alt="Trends and indicators in the responsive interface" />
 </p>
 
-### Savings goals and investments
-
-<p>
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/desktop-goals.png" width="650" alt="Desktop savings goals and allocation" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/mobile-goals.jpg" width="220" alt="Savings goals in the responsive interface" />
-  <img src="https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/mobile-investments.png" width="220" alt="Investment overview in the responsive interface" />
-</p>
-
-### Financial analysis and indicators
-
-![Desktop summary and forecast](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/4.1.0/desktop-summary.png)
-
-![Configurable financial KPIs](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/kpi.png)
-
-*These real interface previews come from the public MD Quality portfolio, including earlier MyAnalyze development versions.*
-
-## Desktop workspace
-
-The dashboard brings together available funds, selected KPIs, the current pay period and goals.
-
-![Desktop dashboard preview](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/dashboard-light.png)
-
-Month comparisons and configurable indicators make it easier to understand changes in income, spending and financial results.
-
-![Trends and alerts preview](https://raw.githubusercontent.com/987p2jnkrb-wq/MDQuality/main/public/images/myanalyze/project/trends.png)
-
+*Mobile previews from the earlier responsive interface.*
 
 ## Availability
 
